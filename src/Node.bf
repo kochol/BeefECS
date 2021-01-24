@@ -1,0 +1,6 @@
+namespace BeefECS
+{
+	class Node
+	{
+	}
+}
